@@ -24,7 +24,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 日报应用效果
 
-demo:
+![Image text](https://raw.githubusercontent.com/chenzeze/zhihuDaily/master/src/assets/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5%E6%95%88%E6%9E%9C%E5%9B%BE.png)
 
 使用了代理 ，配置在 /config/index.js proxyTable变量中
 

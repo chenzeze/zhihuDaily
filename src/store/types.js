@@ -1,0 +1,18 @@
+//getters types
+export const GET_THEMES = 'GET_THEMES';
+export const GET_RECOMMENDLIST = 'GET_RECOMMENDLIST';
+export const GET_COMMENTS = 'GET_COMMENTS';
+export const GET_ARTICLE = 'GET_ARTICLE';
+export const GET_ISLOADING = 'GET_ISLOADING';
+//actions types
+export const FETCH_THEMES = 'FETCH_THEMES';
+export const FETCH_RECOMMENDLIST = 'FETCH_RECOMMENDLIST';
+export const FETCH_COMMENTS = 'FETCH_COMMENTS';
+export const FETCH_ARTICLE = 'FETCH_ARTICLE';
+
+//mutations types
+export const MODIFY_THEMES = 'MODIFY_THEMES';
+export const MODIFY_RECOMMENDLIST = 'MODIFY_RECOMMENDLIST';
+export const MODIFY_COMMENTS = 'MODIFY_COMMENTS';
+export const MODIFY_ARTICLE = 'MODIFY_ARTICLE';
+export const MODIFY_ISLOADING = 'MODIFY_ISLOADING';

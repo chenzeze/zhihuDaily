@@ -1,4 +1,4 @@
-# test 知乎日报
+# 知乎日报
 
 > A Vue.js (vue-cli, vue-router, axios, vuex) + nodejs  project
 

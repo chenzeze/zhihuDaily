@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # vue 2.0 知乎日报
-=======
-# 知乎日报
->>>>>>> cfd57272765c11204ecd4470ae92fae3b2f76d6a
 
 > A Vue.js (vue-cli, vue-router, axios, vuex) + nodejs  project
 
